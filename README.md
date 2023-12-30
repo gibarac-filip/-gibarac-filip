@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on expanding my SQL and Python base, I have a couple ideas for chess related Python projects!<br>👯 I’m looking to collaborate on anything related to Python, NLP, fuzzy logic, and quantum computing!<br>🤝 I’m looking for help with making connections and resources for the above fields<br>🌱 I’m currently learning PostgreSQL, NoSQL, MySQL, and Python (pandas and poltly are my main focus)<br>💬 Ask me something with fuzzy descriptors 😉<br>⚡ Fun fact: James Bond is actually based on a Serbian triple spy, Duško Popov OBE
+🔭 I’m currently working on expanding my SQL and Python base, I have a couple ideas for chess related Python projects!<br>👯 I’m looking to collaborate on anything related to Python, NLP, fuzzy logic, and quantum computing!<br>🤝 I’m looking for help with making connections and resources for the above fields<br>🌱 I’m currently learning snowflake, dbt, snowflake, and Python (pandas and scikit-learn are my main focus)<br>💬 Ask me something with fuzzy descriptors 😉<br>⚡ Fun fact: James Bond is actually based on a Serbian triple spy, Duško Popov OBE
 
 
 ## 🌐 Socials:
